@@ -1,0 +1,52 @@
+[
+    {
+        "Question": "Je suis un vaste pays influent avec une histoire longue et complexe. Situé à cheval entre deux continents, je suis reconnu pour mes hivers rigoureux, mes paysages variés, et mes écrivains qui ont marqué la littérature mondiale. Mes habitants parlent principalement le russe, et je suis...",
+        "Réponse": "La Russie",
+        "Idées d'images": [
+            "Une carte de la Russie montrant à la fois l'Europe et l'Asie",
+            "Des paysages enneigés de Sibérie",
+            "Une vue de Moscou avec le Kremlin en arrière-plan",
+            "Une représentation d'auteurs russes célèbres comme Tolstoï et Dostoïevski"
+        ]
+    },
+    {
+        "Question": "Je suis une île éloignée avec une culture colorée et des plages magnifiques. Entourée d'un vaste océan, je suis un paradis pour les touristes en quête de détente et d'aventure. Mes habitants parlent principalement l'anglais et le créole, et je suis aussi connue pour ma cuisine épicée et mes lagons clairs. Je suis...",
+        "Réponse": "L'Île Maurice",
+        "Idées d'images": [
+            "Une plage paradisiaque avec des eaux turquoise",
+            "Des hôtels de luxe sur le bord de mer",
+            "Une carte de l'île Maurice avec ses principales attractions",
+            "Une représentation de la faune locale, comme le dodo"
+        ]
+    },
+    {
+        "Question": "Je suis un pays de taille moyenne mais avec une influence globale majeure. Situé à la jonction de deux océans, je suis célèbre pour un ouvrage d'ingénierie qui a changé le commerce maritime. Mes habitants parlent espagnol, et je suis souvent associé à des paysages tropicaux et une riche biodiversité. Je suis...",
+        "Réponse": "Le Panama",
+        "Idées d'images": [
+            "Une vue aérienne du canal de Panama",
+            "La jungle tropicale du Panama",
+            "Une carte du Panama avec l'emplacement du canal",
+            "Des bateaux traversant le canal"
+        ]
+    },
+    {
+        "Question": "Je suis un pays insulaire avec une culture profondément enracinée dans la spiritualité. Mes montagnes et plantations de thé sont bien connues, tout comme mes anciens temples bouddhistes. Mes habitants parlent cinghalais et tamoul, et je suis un mélange harmonieux de tradition et de nature luxuriante. Je suis...",
+        "Réponse": "Le Sri Lanka",
+        "Idées d'images": [
+            "Des plantations de thé sur des collines verdoyantes",
+            "Un ancien temple bouddhiste avec une statue de Bouddha",
+            "Une carte du Sri Lanka montrant ses principales attractions",
+            "Des éléphants dans un parc national"
+        ]
+    },
+    {
+        "Question": "Je suis un pays européen avec un riche patrimoine légendaire. Situé dans une région montagneuse, je suis aussi connu pour mes monastères historiques et mes châteaux médiévaux. Mes habitants parlent roumain, et je suis souvent associé à des histoires mystérieuses et des paysages pittoresques. Je suis...",
+        "Réponse": "La Roumanie",
+        "Idées d'images": [
+            "Le château de Bran, souvent associé à Dracula",
+            "Les montagnes des Carpates avec des forêts denses",
+            "Une carte de la Roumanie avec les principales villes",
+            "Des monastères peints de la région de Bucovine"
+        ]
+    }
+]
